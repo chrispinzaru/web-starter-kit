@@ -1,4 +1,21 @@
 {
+  "name": "web-starter-kit",
+  "version": "0.0.1",
+  "description": "Starter kit for js + jQuery, SASS built with Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrispinzaru/web-starter-kit.git"
+  },
+  "author": "chrispinzaru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrispinzaru/web-starter-kit/issues"
+  },
+  "homepage": "https://github.com/chrispinzaru/web-starter-kit#readme",
   "devDependencies": {
     "apache-server-configs": "^2.14.0",
     "babel-core": "^6.14.0",
